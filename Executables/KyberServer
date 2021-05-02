@@ -1,0 +1,56 @@
+#!/bin/bash
+# Argument = -l securitylevel
+
+usage()
+{
+cat << EOF
+usage: $0 options
+
+This is an application for establishing a shared key based on Crystals-Kyber protocol. It is necessary to RUN THE SERVER FIRST. Parameter for security level needs to match on both sides.
+
+Example of a command for Server: ./KyberServer -l 1024 
+
+
+OPTIONS:
+   -h      Show this message
+   -l      Security level, can be 512, 768 or 1024
+EOF
+}
+
+choice=
+while getopts hl: OPTION
+do
+    case "$OPTION" in
+        h)
+           usage
+           exit 1
+	  ;;
+        l)
+           choice=$OPTARG
+           ;;
+    esac
+done
+
+if [ -z $choice ]
+then
+     usage
+     exit 1
+fi
+
+if [ $choice == 512 ]
+then 
+   echo You choose Kyber512
+   ./Server/K2
+fi
+
+if [ $choice == 768 ]
+then 
+   echo You choose Kyber768
+   ./Server/K3
+fi
+
+if [ $choice == 1024 ]
+then 
+   echo You choose Kyber1024
+   ./Server/K4
+fi
