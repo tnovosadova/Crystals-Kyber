@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libtcp.a  CMakeFiles/tcp.dir/TCP/Server.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libtcp.a

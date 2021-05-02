@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Alice"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Alice">
+				<Option output="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Alice" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 Alice"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Alice/fast">
+				<Option output="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Alice" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 Alice/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tcp">
+				<Option output="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/libtcp.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 tcp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tcp/fast">
+				<Option output="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/libtcp.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 tcp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kyber">
+				<Option output="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/libkyber.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 kyber"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kyber/fast">
+				<Option output="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/libkyber.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 kyber/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/Kyber/aes256ctr.c">
+			<Option target="kyber"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/Kyber/aes256ctr.h">
+			<Option target="kyber"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/Kyber/cbd.c">
+			<Option target="kyber"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/Kyber/cbd.h">
+			<Option target="kyber"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/Kyber/fips202.c">
+			<Option target="kyber"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/Kyber/fips202.h">
+			<Option target="kyber"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/Kyber/indcpa.c">
+			<Option target="kyber"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/Kyber/indcpa.h">
+			<Option target="kyber"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/Kyber/kem.c">
+			<Option target="kyber"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/Kyber/kem.h">
+			<Option target="kyber"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/Kyber/kex.c">
+			<Option target="kyber"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/Kyber/kex.h">
+			<Option target="kyber"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/Kyber/ntt.c">
+			<Option target="kyber"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/Kyber/ntt.h">
+			<Option target="kyber"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/Kyber/params.h">
+			<Option target="kyber"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/Kyber/poly.c">
+			<Option target="kyber"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/Kyber/poly.h">
+			<Option target="kyber"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/Kyber/polyvec.c">
+			<Option target="kyber"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/Kyber/polyvec.h">
+			<Option target="kyber"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/Kyber/randombytes.c">
+			<Option target="kyber"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/Kyber/randombytes.h">
+			<Option target="kyber"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/Kyber/reduce.c">
+			<Option target="kyber"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/Kyber/reduce.h">
+			<Option target="kyber"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/Kyber/symmetric-aes.c">
+			<Option target="kyber"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/Kyber/symmetric-shake.c">
+			<Option target="kyber"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/Kyber/symmetric.h">
+			<Option target="kyber"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/Kyber/verify.c">
+			<Option target="kyber"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/Kyber/verify.h">
+			<Option target="kyber"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/TCP/Server.c">
+			<Option target="tcp"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/TCP/Server.h">
+			<Option target="tcp"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/main.c">
+			<Option target="Alice"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

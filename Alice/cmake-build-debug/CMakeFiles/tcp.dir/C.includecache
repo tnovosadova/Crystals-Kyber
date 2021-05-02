@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/TCP/Server.c
+Server.h
+/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/TCP/Server.h
+
+/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Alice/TCP/Server.h
+netdb.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+sys/socket.h
+-
+unistd.h
+-
+arpa/inet.h
+-
+sys/ioctl.h
+-
+

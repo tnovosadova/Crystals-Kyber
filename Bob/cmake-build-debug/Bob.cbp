@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Bob"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Bob">
+				<Option output="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/cmake-build-debug/Bob" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/cmake-build-debug/Makefile&quot;  VERBOSE=1 Bob"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Bob/fast">
+				<Option output="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/cmake-build-debug/Bob" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/cmake-build-debug/Makefile&quot;  VERBOSE=1 Bob/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/Kyber/aes256ctr.c">
+			<Option target="Bob"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/Kyber/aes256ctr.h">
+			<Option target="Bob"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/Kyber/cbd.c">
+			<Option target="Bob"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/Kyber/cbd.h">
+			<Option target="Bob"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/Kyber/fips202.c">
+			<Option target="Bob"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/Kyber/fips202.h">
+			<Option target="Bob"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/Kyber/indcpa.c">
+			<Option target="Bob"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/Kyber/indcpa.h">
+			<Option target="Bob"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/Kyber/kem.c">
+			<Option target="Bob"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/Kyber/kem.h">
+			<Option target="Bob"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/Kyber/kex.c">
+			<Option target="Bob"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/Kyber/kex.h">
+			<Option target="Bob"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/Kyber/ntt.c">
+			<Option target="Bob"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/Kyber/ntt.h">
+			<Option target="Bob"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/Kyber/params.h">
+			<Option target="Bob"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/Kyber/poly.c">
+			<Option target="Bob"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/Kyber/poly.h">
+			<Option target="Bob"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/Kyber/polyvec.c">
+			<Option target="Bob"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/Kyber/polyvec.h">
+			<Option target="Bob"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/Kyber/randombytes.c">
+			<Option target="Bob"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/Kyber/randombytes.h">
+			<Option target="Bob"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/Kyber/reduce.c">
+			<Option target="Bob"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/Kyber/reduce.h">
+			<Option target="Bob"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/Kyber/symmetric-aes.c">
+			<Option target="Bob"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/Kyber/symmetric-shake.c">
+			<Option target="Bob"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/Kyber/symmetric.h">
+			<Option target="Bob"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/Kyber/verify.c">
+			<Option target="Bob"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/Kyber/verify.h">
+			<Option target="Bob"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/TCP/Client.c">
+			<Option target="Bob"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/TCP/Client.h">
+			<Option target="Bob"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/main.c">
+			<Option target="Bob"/>
+		</Unit>
+		<Unit filename="/Users/tnovosadova/Desktop/diplomka/kyber_final/Kyber/Bob/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
