@@ -12,3 +12,5 @@ Example how to run the client part:
 ./KyberClient -l 1024 -n 1 -a 127.0.0.1
 
 SERVER NEEDS TO BE EXECUTED FIRST.
+
+Ubuntu executables were created on an Ubuntu 20.04.2. Same functionality as above.
