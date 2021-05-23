@@ -6,11 +6,11 @@ The executables folder contains the main working application created using this 
 To run the executables, open two terminal windows in Executables folder.
 
 Example how to run the server part:
-./KyberServer -l 1024
+<code> ./KyberServer -l 1024 </code>
 
 Example how to run the client part:
-./KyberClient -l 1024 -n 1 -a 127.0.0.1
+<code> ./KyberClient -l 1024 -n 1 -a 127.0.0.1 </code>
 
-SERVER NEEDS TO BE EXECUTED FIRST.
+<b> SERVER NEEDS TO BE EXECUTED FIRST. </b>
 
 Ubuntu executables were created on an Ubuntu 20.04.2. Same functionality as above.
